@@ -1,25 +1,51 @@
 function App() {
   return (
-    <>
-    <div>
-     <h1>1</h1>
-     <h2>2</h2>   
-     <h3>3</h3>
-     <h4>4</h4>
-     <h5>5</h5>
-     </div>
-     <span>
-     <h3>3</h3>
-     <h4>4</h4>
-     <h5>5</h5>
-     </span>
-     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam rerum nemo cupiditate ipsum sunt. Tempore placeat nobis laudantium eveniet dolor, non fuga. Porro nostrum tempora provident mollitia et voluptatum incidunt!</p>
-    <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, eum? Veritatis mollitia sapiente, repudiandae iusto facere a error sed ratione accusamus accusantium ad aliquid earum. Incidunt minima maiores asperiores perspiciatis!</span>
-    
-    
-    </>
+<>
+    <h1>----PORTFOLIO----</h1>
+      <h2>นางสาวอัญชลีพร ศรีละจักร์</h2>
+      <h2>---ประวัตืส่วนตัว---</h2>
+      <p>ชื่อเล่น : แพนด้า -- วันเกิด : 6/11/2548 -- อายุ : 18</p>
+      <span>
+        <h3>ที่อยู่</h3>
+        <p>14/70, หมู่ที่ 10, หมู่บ้าน สวนพฤกษามาลัยทอง, ตำบล บ้านสวน, อำเภอเมืองชลบุรี 20000</p>
+      </span>
+      <h3>สิ่งที่ชอบ</h3>
+      <p>ขายของ,ช๊อปปิ้ง</p>
+      <h3>อาชีพในฝัน</h3>
+      <p>ยูทูปเปอร์</p>
+      <p>มีธุรกิจเป็นของตัวเอง</p>
+      <h3>งานอดิเรก</h3>
+      <ul>
+        <li>ขายของ</li>
+        <li>ช๊อปปิ้ง</li>
+        <li>เล่นเกม</li>
+        <li>เล่นโทรศัพท์</li>
+      </ul>
+      <h3>ประวัติการศึกษา</h3>
+      <table>
+        <tr>
+          <th>ปี</th>
+          <th>ชื่อโรงเรียน/วิลัย</th>
+          <th></th>
+        </tr>
+        <tr>
+          <td>( 2552 - 2558 )</td>
+          <td>โรงโรงเรียนวุฒิวิทยา</td>
+        </tr>
+        <tr>
+          <td>( 2559 - 2560 )</td>
+          <td>โรงโรงเรียนธรรมวาที</td>
+        </tr>
+        <tr>
+          <td>( 2561 - 2563 )</td>
+          <td>โรงโรงเรียนวุฒิวิทยา2</td>
+        </tr>
+        <tr>
+          <td>( 2564 - 2566 )</td>
+          <td>วิทยาลัยอาชีวศึกษา ชลบุรี</td>
+        </tr>
+      </table>
+</>
   )
 }
-
 export default App
-
